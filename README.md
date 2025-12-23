@@ -34,12 +34,11 @@
 
 ```javascript
 const shivanshu = {
-    pronouns: "He/Him",
     location: "Rajasthan, India",
     education: "B.Tech IT @ Manipal University Jaipur",
     currentGPA: "9.61/10",
-    currentFocus: ["System Design", "Cloud Architecture", "AI Integration"],
-    lookingFor: "Full Stack Developer / Software Engineer roles",
+    currentFocus: ["System Design","AI Integration","Cloud Architecture"],
+    lookingFor: "Software Engineer Internship roles",
 };
 ```
 
