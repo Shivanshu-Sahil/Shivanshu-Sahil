@@ -44,7 +44,7 @@ const shivanshu = {
 
 🔭 **Currently working on:** AI-powered Healthcare Claims Fraud Detection System
 
-🌱 **Currently learning:** System Design, ML Architecture, and Cloud-Native Development with AWS
+🌱 **Currently learning:** Advanced Data structures, System Design and ML Architecture
 
 💬 **Ask me about:** React, Next.js, Node.js, Full Stack Development, Real-time Applications, AI Integration, and Building Scalable Systems
 
