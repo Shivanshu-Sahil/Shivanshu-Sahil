@@ -37,7 +37,7 @@ const shivanshu = {
     location: "Rajasthan, India",
     education: "B.Tech IT @ Manipal University Jaipur",
     currentGPA: "9.61/10",
-    currentFocus: ["System Design","AI Integration","Cloud Architecture"],
+    currentFocus: ["System Design","AI Integration"],
     lookingFor: "Software Engineer Internship roles",
 };
 ```
