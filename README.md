@@ -30,8 +30,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu-Sahil&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&langs_count=8&exclude_repo=TemperatureSample,MiniPortfolio" width="350" alt="Top Languages"/>
-
 ```javascript
 const shivanshu = {
     location: "Rajasthan, India",
@@ -189,15 +187,6 @@ const shivanshu = {
 </td>
 </tr>
 </table>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanshu-Sahil&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&title_color=88c0d0&icon_color=88c0d0&text_color=ffffff&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu-Sahil&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=88c0d0&text_color=ffffff&langs_count=8&exclude_repo=TemperatureSample,MiniPortfolio"/>
 </div>
 
 ---
