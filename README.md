@@ -30,6 +30,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshu-Sahil&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&langs_count=8&exclude_repo=TemperatureSample,MiniPortfolio" width="350" alt="Top Languages"/>
+
 ```javascript
 const shivanshu = {
     location: "Rajasthan, India",
@@ -40,7 +42,7 @@ const shivanshu = {
 };
 ```
 
-🔭 **Currently working on:** AI-powered Healthcare Claims Fraud Detection System
+🔭 **Currently working on:** Computer Vision 
 
 🌱 **Currently learning:** Advanced Data structures, System Design and ML Architecture
 
@@ -100,17 +102,17 @@ const shivanshu = {
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </div>
 
 ### 🤖 **AI & Libraries**
 <div align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI"/>
-<img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white" alt="Recharts"/>
-<img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
 </div>
+
 
 </td>
 </tr>
