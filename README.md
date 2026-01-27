@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Shivanshu-Sahil">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building%20scalable%20web%20apps%20%F0%9F%9A%80%20%7C%20Crafting%20AI-powered%20solutions%20%F0%9F%A4%96%20%7C%20Turning%20ideas%20into%20reality%20%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&repeat=true&width=800&height=45&lines=System%20Design%20%F0%9F%9A%80%20%7C%20Crafting%20AI-powered%20solutions%20%F0%9F%A4%96%20%7C%20Turning%20ideas%20into%20reality%20%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 
